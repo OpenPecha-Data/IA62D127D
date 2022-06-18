@@ -1,0 +1,37 @@
+id: IA62D127D
+source: https://sakyaresearch.org
+source_file: null
+initial_creation_type: input
+imported: '2022-06-18T19:59:58.066649'
+last_modified: '2022-06-18T19:59:58.066661'
+parser: null
+source_metadata:
+  title: Autobiography of sTag tshang lo tsā ba Shes rab rin chen (1405–1477)
+  author: སྟག་ཚང་ལོ་ཙཱ་བ་ཤེས་རབ་རིན་ཆེན།
+  description: 'Digital version 2.0 {Tibetan}; master xml (completed: 2020-08-03);
+    revision in process, no thematic TEI markup'
+  file_info:
+  - 'Language: Tibetan'
+  - 'Coverage: Full Text'
+  - 'Accessible: publicly'
+  responibilities:
+  - Digital edition:ས་སྐྱ་ཞིབ་འཇུག་ཁང་།; This text was published by the Paltsek Research
+    Institute. (src)
+  - Text input:དཔལ་བརྩེགས་བོད་ཡིག་དཔེ་རྙིང་ཞིབ་འཇུག་ཁང་། (Lhasa) (eds)
+  - Editorial process:Mathias Fermer (mf)
+  - TEI Encoding:ས་སྐྱ་ཞིབ་འཇུག་ཁང་།
+  - TEI Markup:-
+  - Revisions/Corrections:དཔལ་བརྩེགས་བོད་ཡིག་དཔེ་རྙིང་ཞིབ་འཇུག་ཁང་། (eds)
+  text_witnesses: https://sakyaresearch.org/sources/177
+  bases:
+    3c80:
+      title: Autobiography of sTag tshang lo tsā ba Shes rab rin chen (1405–1477)
+      order: 1
+      base_file: 3c80.txt
+statistics: {}
+quality: {}
+copyright:
+  status: Unknown
+  notice: ''
+  info_url: null
+license: null
